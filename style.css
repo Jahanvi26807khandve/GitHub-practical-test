@@ -81,3 +81,13 @@ section h2 {
 #contact {
     background-color: #e5ebf2;
 }
+footer {
+    background-color: #26334a;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+footer p {
+    margin: 8px;
+}
